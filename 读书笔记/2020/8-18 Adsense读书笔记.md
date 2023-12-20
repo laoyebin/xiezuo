@@ -68,4 +68,4 @@
 
 ## 广告优化：热点图分布
 
-![热点图分布](https://cdn.img.trk.gs/images/2020/08/18/d1d6575d59b8b1412404c2469418ba36.jpg)
+![热点图分布](https://img.trk.gs/images/2020/08/18/d1d6575d59b8b1412404c2469418ba36.jpg)
