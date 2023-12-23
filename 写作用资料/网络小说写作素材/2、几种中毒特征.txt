@@ -1,0 +1,75 @@
+几种中毒特征 
+
+
+
+侦探常识之毒物与急救 几种中毒特征 
+╔═══════════╦══════════════════════════╗
+║　　临床表现　　　　　║　　　　　　　　　常见中毒种类　　　　　　　　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║呼气、吐物有特殊气味　║蒜臭：无机磷，有机磷　　　　 　　　　　　　　　　　 ║ 
+║　　　　　　　　　　　║硫臭：含硫化合物　　　　　　　　　　　　　　　　　　║ 
+║　　　　　　 　　　　 ║杏仁味：含氰甙及氰酸　　　　　　　　　　　　　　　　║ 
+║　　　　 　　　　　　 ║异味：煤油，酒精，碳酸，煤酚，烟草，有机氯，丙酮等　║ 
+╠═══════════╬══════════════════════════╣ 
+║流涎，大汗　　　　　　║有机磷，毒蘑菇，砷，汞，野芹，６６６，氯丹，水杨酸盐║ 
+╠═══════════╬══════════════════════════╣ 
+║口干渴，无汗　　　　　║阿托品类　　　　　　　　　　　　　　　　　　　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║口唇及面颊樱桃红色　　║一氧化碳，氰化物等　　　　　　　　　　　　　　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║面及皮肤潮红　　　　　║阿托品类，醇类，烟草酸，甲状腺素等　　　　　　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║呼吸困难而无明显青紫　║一氧化碳，含氰甙及氰酸，砷，汞　　　　　　　　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║皮肤紫蓝而无呼吸困难　║亚硝酸盐，吡唑酮类，苯胺，碘胺，含硫化物　　　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║幻视幻听，乱语癫狂　　║阿托品类，氯丙嗪，异丙嗪，毒蘑菇，酒精，大麻　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║瞳孔缩小　　　　　　　║麻醉剂，有机磷，毒蘑菇　　　　　　　　　　　　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║瞳孔散大　　　　　　　║阿托品，安非他明，巴比妥类，柯卡因，甲醇　　　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║失明　　　　　　　　　║甲醇，奎宁　　　　　　　　　　　　　　　　　　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║色视　　　　　　　　　║山道年，洋地黄　　　　　　　　　　　　　　　　　　　║ 
+╠═══════════╬══════════════════════════╣ 
+║肌肉震颤，抽动　　　　║有机磷，滴滴涕，氯丹，烟碱，钡，汞　　　　 　　　　 ║ 
+╠═══════════╬══════════════════════════╣ 
+║肌肉麻痹　　　　　　　║肉毒杆菌，河豚，蛇毒，野芹 　　　　　　　　　　　　 ║ 
+╠═══════════╬══════════════════════════╣ 
+║尿绿蓝色　　　　　　　║亚甲蓝，酚，萨罗　 　　　　　　　　　　　　　　　　 ║ 
+╚═══════════╩══════════════════════════╝
+　　　　　　　　几种中毒的抢救方法及其作用 
+╔═════╦══════════════════════════╦═════╗ 
+║毒物　　　║局部拮抗剂　　　　　　　　　　　　　　　　　　　　　║作用性质　║ 
+╠═════╬══════════════════════════╬═════╣ 
+║腐蚀性酸　║弱碱（石灰水）、牛奶、蛋清、豆浆、肥皂水 　　　　   ║中和      ║ 
+╠═════╬══════════════════════════╬═════╣ 
+║腐蚀性碱  ║弱酸（稀醋），果汁，牛奶，豆浆，桔子水，蛋清，浓茶  ║中和      ║ 
+╠═════╬══════════════════════════╬═════╣ 
+║砷　　　　║硫代硫酸钠５～１０克，豆浆，牛奶，蛋清　　　　　　　║沉淀　　　║ 
+╠═════╬══════════════════════════╬═════╣ 
+║汞　　　　║牛奶，豆浆，蛋清，２．５％碳酸氢钠洗胃，硫代硫酸钠　║沉淀　　　║ 
+╠═════╬══════════════════════════╬═════╣ 
+║铅　　　　║硫酸钠或硫酸镁　　　　　　　　　　　　　　　　　　　║沉淀　　　║ 
+╠═════╬══════════════════════════╬═════╣ 
+║无机磷　　║０．１％硫酸铜溶液　　　　　　　　　　　　　　　　　║沉淀　　　║ 
+╠═════╬══════════════════════════╬═════╣ 
+║钡盐　　　║２～５％硫酸钠或硫酸镁（泻盐）　　　　　　　　　　　║沉淀　　　║ 
+╠═════╬══════════════════════════╬═════╣ 
+║含氰化物　║硫代硫酸钠５～１０克　　　　　　　　　　　　　　　　║形成无毒物║ 
+╠═════╬══════════════════════════╬═════╣ 
+║铁　　　　║碳酸氢钠　　　　　　　　　　　　　　　　　　　　　　║形成无毒物║ 
+╠═════╬══════════════════════════╬═════╣ 
+║氟化物　　║牛奶，石灰水　　　　　　　　　　　　　　　　　　　　║生成氟化钙║ 
+╠═════╬══════════════════════════╬═════╣ 
+║草酸盐　　║牛奶，石灰水　　　　　　　　　　　　　　　　　　　　║生成草酸钙║ 
+╠═════╬══════════════════════════╬═════╣ 
+║福尔马林　║０．１％氨水　　　　　　　　　　　　　　　　　　　　║生成无毒物║ 
+╠═════╬══════════════════════════╬═════╣ 
+║石炭酸　　║植物油（蓖麻油）　　　　　　　　　　　　　　　　　　║延缓吸收　║ 
+╠═════╬══════════════════════════╬═════╣ 
+║碘　　　　║面糊，米汤　　　　　　　　　　　　　　　　　　　　　║使碘无活性║ 
+╠═════╬══════════════════════════╬═════╣ 
+║高锰酸钾　║维生素ｃ　　　　　　　　　　　　　　　　　　　　　　║还原作用　║ 
+╚═════╩══════════════════════════╩═════╝

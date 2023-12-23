@@ -1,0 +1,261 @@
+摩尔斯密码!~
+
+最早的摩爾斯電碼是一些表示數字的點和劃。數字對應單詞，需要查找一本代碼表才能知道每個
+詞對應的數。用一個電鍵可以敲擊出點、劃以及中間的停頓。
+
+雖然摩爾斯發明瞭電報，但他缺乏相關的專門技術。他與艾爾菲德·維爾簽定了一個協議，讓
+
+他幫自己製造更加實用的設備。艾爾菲德·維爾構思了一個方案，通過點、劃和中間的停頓，
+可以讓每個字元和標點符號彼此獨立地發送出去。他們達成一致，同意把這種標識不同符號的方
+案放到摩爾斯的專利中。這就是現在我們所熟知的美式摩爾斯電碼，它被用來傳送了世界上第一條電報。
+
+這種代碼可以用一種音調平穩時斷時續的無線電信號來傳送，通常被稱做
+連續波(Continuous Wave)，縮寫為CW。它可以是電報電線里的電子脈衝，也可以是一種機械
+的或視覺的信號(比如閃光)。
+
+一般來說，任何一種能把書面字元用可變長度的信號表示的編碼方式都可以稱為摩爾斯電
+碼。但現在這一術語只用來特指兩種表示英語字母和符號的摩爾斯電碼：美式摩爾斯電碼
+被使用了在有線電報通信系統；今天還在使用的國際摩爾斯電碼則只使用點和劃(去掉了停頓)。
+
+電報公司根據要發的信的長度收費。商業代碼精心設計了五個字元組成一組的代碼，做為
+一個單詞發送。比如：BYOXO ("Are you trying to crawl out of it?")；LIOUY ("Why 
+do you not answer my question?"),；AYYLU ("Not clearly coded, repeat more clearly.")。
+這些五個字元的簡語可以用摩爾斯電碼單獨發送。在網路用辭中，我們也會說一些最常用的摩爾
+斯商用代碼。現在仍然在業餘無線電中使用的有Q簡語和Z簡語：他們最初是為報務員之間交
+流通信質量、頻率變更、電報編號等資訊服務的。
+
+1838年1月8日，Alfred Vail展示了一種使用點和劃的電報碼，這是摩爾斯電碼前身。
+
+作為一種資訊編碼標準，摩爾斯電碼擁有其他編碼方案無法超越的長久的生命。摩爾斯電碼
+在海事通訊中被作為國際標準一直使用到1999年。1997年，當法國海軍停止使用摩爾斯電碼
+時，發送的最後一條消息是：“所有人注意，這是我們在永遠沉寂之前最後的一聲吶喊”！
+
+美式摩爾斯電碼
+
+做為一種實際上已經絕跡的電碼，美式摩爾斯電碼使用不太一樣的點、劃和獨特地間隔來
+表示數字、字元和特殊符號。這種摩爾斯電碼的設計主要是針對地面報務員通過電報電線
+傳輸的，而非通過無線電波。
+
+這種古老的、交錯的電碼是為了配合報務員接聽方式而設計的。不象現在可以從揚聲器或
+者耳機中聽到電碼的音調，你只能從這些最早期的電報機的一個機械發生裝置聽到嗒嗒的
+聲音，甚至是從發送電鍵接聽：這種電鍵在不發送信號時被設置為從動模式，負責發聲。
+
+這些報務員大多是為鐵路或以後的西聯電傳等服務。象那時的許多年輕人一樣，十幾歲
+的愛迪生就是這樣一名話務員。
+
+現代國際摩爾斯電碼
+
+在今天，國際摩爾斯電碼依然被使用著，雖然這幾乎完全成為了業餘無線電愛好者的專利
+。直到2003年，國際電信聯盟(ITU)管理著世界各地的摩爾斯電碼熟練者取得業餘無線電執
+照的工作。在一些國家，業餘無線電的一些波段仍然只為發送摩爾斯電碼信號而預留。
+
+因為摩爾斯只依靠一個平穩的不變調的無線電信號，所以它的無線電通訊設備比起其它方
+式的更簡單，並且它能在高雜訊、低信號的環境中使用。同時，它只需要很窄的帶寬，並
+且還可以幫助兩個母語不同、在話務通訊時會遇到巨大困難的操作者之間進行溝通。它也
+是QRP中最常使用的方式。
+
+在美國，直到1991年，為了獲得FCC頒發的允許使用高頻波段的業餘無線電證書，必須通過
+每分鐘五個單詞(WPM)的摩爾斯碼發送和接收測試。1999年以前，達到20WPM的熟練水平才能
+獲得最高級別的業餘無線電證書(額外類)；1999年12月13日，FCC把額外類的這項要求降
+低到13WPM。
+
+2003年世界無線電通信大會(WRC03，ITU主辦的頻率分配專門會議，兩年一度)做出決定，
+允許各國在業餘無線電執照管理中自己任選是否對摩爾斯電碼進行要求。雖然在美國和加
+拿大還有書面上的要求，但在一些其他國家正準備徹底去除這個要求。
+
+熟練的愛好者和軍事報務員常常可以接收(抄報)40WPM以上速度的摩爾斯碼。雖然傳統發
+報電鍵仍有許多愛好者在使用，但半自動和全自動的電子電鍵在今天使用越來越廣泛。電
+腦軟體也經常被用來生成和解碼摩爾斯碼電波信號。
+
+時間控制和表示方法
+
+有兩種"符號"用來表示字元：點和劃，或叫滴(Dit)和答(Dah)。點的長度決定了發報的
+速度，並且被當作發報時間參考。下面是時間控制的圖示：
+-- --- *-* *** * / -*-* --- -** *
+M O R S E (空白) C O D E
+
+這裡，-表示劃，*表示點。這是上面消息的準確發報時間(=表示信號有，.代表信號無，每
+個為一個點的長度):
+===.===...===.===.===...=.===.=...=.=.=...=.......===.=.===.=...===.===.===
+^ ^ ^ ^ ^
+| 劃 點 | 單詞間隔
+點劃間隔 字元間隔
+
+
+劃一般是三個點的長度；點劃之間的間隔是一個點的長度；字元之間的間隔是三個點的
+長度；單詞之間的間隔是七個點的長度。
+
+(初學者往往被教導發送點劃間隔短小、短而快的字元，並且在符號和單詞之間誇大間隔
+時間。比較起來，這種方式更加容易學會。)
+
+熟悉摩爾斯碼的人之間經常象這樣說話或拼寫(其中，“長音/Dah”發"awe"的音)：
+-- --- *-* *** * / -*-* --- -** *
+
+DahDah DahDahDah DiDahDit DiDiDit Dit, DahDiDahDit DahDahDah DahDiDit Dit.
+
+字母
+
+
+字母編碼字母編碼A*-N-*B-***O---C-*-*P*--*D-**Q--*-E*R*-*F**-*S***G--*
+T-H****U**-I**V***-J*---W*--K-*-X-**-L*-**Y-*--M--Z--**
+
+數字0 -----
+1 *----
+2 **---
+3 ***--
+4 ****-
+5 *****
+6 -****
+7 --***
+8 ---**
+9 ----*常用標點句號 *-*-*-
+逗號 --**--
+問號 **--**
+長破折號 -***-
+連字元 -****-
+分數線 -**-*特殊符號(同一符號)
+
+
+這是一些有特殊意義的點劃組合。它們由二個字母的摩爾斯電碼連成一個
+使用，這樣可以省去正常時把它們做為兩個字母發送所必須的中間間隔時間。
+AR *-*-* 停止 (消息結束)
+AS *-*** 等待
+K -*- 邀請發射信號(一般跟隨AR，表示“該你了”)
+SK ***-*- 終止 (聯絡結束)
+BT -***- 分隔符
+
+這些並不是真正的同一符號：
+***-* (我將重新發送最後一個單詞)
+** ** (同樣)
+******** 錯誤
+非英語字元的一些擴展? *--*-
+? *-*-
+à *--*-
+é **-**
+ch ----
+? ---*
+ü **--
+" *-**-*
+! **--*
+常用縮寫
+
+縮寫和同一符號不同，縮寫保留著字元中間的間隔，它們並沒有被連成一個使用。
+AA All after (used after question mark to request a repetition)
+AB All before (similarly)
+ARRL American Radio Relay League
+ABT About
+ADS Address
+AGN Again
+ANT Antenna
+BN All between
+BUG Semiautomatic key
+C Yes
+CBA Callbook address
+CFM Confirm
+CLG Calling
+CQ Calling any station
+CUL See you later
+CUZ Because
+CW Continuous wave
+CX Conditions
+DE From
+DX Distance (sometimes refers to long distance contact)
+ES And
+FB Fine business (Analogous to "OK")
+FCC Federal Communications Commission
+FER For
+FREQ Frequency
+GA Good afternoon or Go ahead (depending on context)
+GE Good evening
+GM Good morning
+GND Ground (ground potential)
+GUD Good
+HI Laughter
+HR Here
+HV Have
+LID Poor operator
+MILS Milliamperes
+NIL Nothing
+NR Number
+OB Old boy
+OC Old chap
+OM Old man (any male amateur radio operator is an OM)
+OO Official Observer
+OP Operator
+OT Old timer
+OTC Old timers club
+OOTC Old old timers club
+PSE Please
+PWR Power
+QCWA Quarter Century Wireless Association
+R I acknowledge or decimal point (depending on context)
+RCVR Receiver
+RPT Repeat or report (depending on context)
+RST Signal report format (Readability-Signal Strength-Tone)
+RTTY Radioteletype
+RX Receive
+SAE Self addressed envelope
+SASE Self addressed, stamped envelope
+SED Said
+SEZ Says
+SIG Signal
+SIGS Signals
+SKED Schedule
+SN Soon
+SOS international distress call
+SRI Sorry
+STN Station
+TEMP Temperature
+TMW Tomorrow
+TNX Thanks
+TU Thank you
+TX Transmit
+U You
+UR Your or you're (depending on context)
+URS Yours
+VY Very
+WDS Words
+WKD Worked
+WL Will
+WUD Would
+WX Weather
+XMTR Transmitter
+XYL Wife
+YL Young lady (used of any female)
+73 Best regards
+88 Love and kisses
+用摩爾斯碼交談
+
+要使用摩爾斯碼進行明白無誤的交流，只需要字母就夠了。為了使交流更有效率
+，有很多國際上通用的模式。
+
+這是一個CW通訊的例子，發生在電台一(s1)和電台二(s2)之間：
+
+s1:
+CQ CQ CQ de s1 K
+呼叫任何人(CQ)，這是(de)s1，結束(K)。
+
+s2:
+s1 de s2 K
+呼叫s1，這是s2，結束
+(現在兩個電台就建立通訊連接了)
+
+s1:
+SK
+再見。
+
+s2:
+SK
+再見。
+
+作為一個例子，上面的電台之間並沒有交談什麼內容，這隻是演示一次聯絡的情形罷了。
+
+
+
+
+
+笑话///
+第二次世界大战结束后，两个退伍的通讯兵决定去一家公司求职。录用前要经过一场严格
+的考试。于是他们约定，互相通报重要答案，方法是用铅笔“嘀嘀嗒嗒”地在桌子上敲出
+电报密码。考试开始了，他们用这方法才敲了没几道题，就听见监考官也敲起桌子来了。
+他们仔细一听，监考官敲的是：咱们原来是一支部队的，你俩玩的这套把戏该收场了。
